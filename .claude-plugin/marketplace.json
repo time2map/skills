@@ -12,8 +12,8 @@
       "name": "brief-interview",
       "description": "Interviews the client before writing a project brief for development: problem, goals, priority, non-goals, user stories, requirements, acceptance criteria and open questions — containing only what the client confirmed.",
       "source": {
-        "source": "github",
-        "repo": "time2map/claude-brief-interview"
+        "source": "url",
+        "url": "https://github.com/time2map/claude-brief-interview.git"
       }
     }
   ]
